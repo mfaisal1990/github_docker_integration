@@ -27,7 +27,12 @@ Thousands of pre-built actions are available on the GitHub Actions Marketplace.
 - 📈 **Version Control** – Tracks changes efficiently with Git for better collaboration.
 
 ## 💻 Tech Stack
-
+| Technology           | Description               |
+| ------------------- | ------------------------ |
+| 🐙 Github | Version control and source code hosting |
+| ⚙️ GitHub Actions | CI/CD automation for building and pushing Docker images |
+| 🐳 Docker       | Containerization of the application |
+| 📦 Docker Hub        | Hosting and distribution of Docker images |
 
 ## 🗂️ Project Structure
 
